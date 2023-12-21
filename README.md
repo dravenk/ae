@@ -1,3 +1,3 @@
-algorithm
+ae
 --
-Examples of various algorithms implemented in rust.
+ae in rust.
